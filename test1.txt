@@ -1,3 +1,4 @@
 Hello world
 
 Jag gillar Git men inte SVN!
+Det är kul att lära sig Git!
